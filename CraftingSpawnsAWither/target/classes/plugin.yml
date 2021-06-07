@@ -1,0 +1,6 @@
+name: CraftingWither
+version: 1.0
+main: com.jake.craftingwither.CraftingWither
+api-version: 1.16
+commands:
+  craftingwither:
